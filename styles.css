@@ -47,13 +47,13 @@ section {
 
 a {
     text-decoration: none;
-    color: #558d9d;
+    color: #2195b5;
     transition: 0.15s;
     -webkit-transition: color 0.15s ease-in;
 }
 
 a:hover {
-    color: #67bbd2;
+    color: #79b3c3;
     transition: 0.15s;
 }
 
