@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "EB Garamond", serif;
+    font-family: "EB Garamond";
     font-style: normal;
     src: url(garamond-limited/EBGaramond-VariableFont_wght.woff2) format("woff2");
 }
@@ -18,14 +18,12 @@ h1 {
     font-size: 2rem;
     font-weight: 500;
     margin-top: 0px;
-    margin-bottom:
 }
 
 h2 {
     font-size: 2rem;
     font-weight: 500;
     margin-top: 0px;
-    margin-bottom:
 }
 
 h3 {
